@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { Routes, Route } from "react-router-dom"
+import ARapp from './Components/ARapp';
+import Home from './Components/Home';
+import DownloadMarkers from './Components/DownloadMarkers';
+import ViewMarkers from './Components/ViewMarkers';
+import Marker from './Components/Marker';
+import Error from './Components/Error';
+import Navbar from './Components/Navbar';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar />
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/arapp' element={<ARapp />} />
+        <Route path='/download' element={<DownloadMarkers />} />
+        <Route path='/view-markers' element={<ViewMarkers />} />
+        <Route path='/view-markers/singleMarker/:id' element={<Marker />} />
+        <Route path='*' element={<Error />} />
+      </Routes>
     </div>
-  );
+  )
 }
 
 export default App;

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Grasshopper ( Animated 3D Asset )
+* source:	https://sketchfab.com/3d-models/low-poly-grasshopper-animated-3d-asset-b0dcaba5df3e4fd2b9d70eecea20897f
+* author:	Pascal Chaumette (https://sketchfab.com/pakagames)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Grasshopper ( Animated 3D Asset )" (https://sketchfab.com/3d-models/low-poly-grasshopper-animated-3d-asset-b0dcaba5df3e4fd2b9d70eecea20897f) by Pascal Chaumette (https://sketchfab.com/pakagames) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

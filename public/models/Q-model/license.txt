@@ -1,0 +1,11 @@
+Model Information:
+* title:	quoll_FINAL_rig_ANIMATING23-EDITS2_PROPORTIONS12
+* source:	https://sketchfab.com/3d-models/quoll-final-rig-animating23-edits2-proportions12-7808ad1c00a848b8b684505056acaa53
+* author:	zandos (https://sketchfab.com/zandos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "quoll_FINAL_rig_ANIMATING23-EDITS2_PROPORTIONS12" (https://sketchfab.com/3d-models/quoll-final-rig-animating23-edits2-proportions12-7808ad1c00a848b8b684505056acaa53) by zandos (https://sketchfab.com/zandos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

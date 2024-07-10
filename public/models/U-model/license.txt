@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yellow Umbrella
+* source:	https://sketchfab.com/3d-models/yellow-umbrella-27b2aab832734f7fa88b675b3dca3ab2
+* author:	CGV (https://sketchfab.com/cgv)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yellow Umbrella" (https://sketchfab.com/3d-models/yellow-umbrella-27b2aab832734f7fa88b675b3dca3ab2) by CGV (https://sketchfab.com/cgv) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

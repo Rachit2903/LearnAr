@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Horse
+* source:	https://sketchfab.com/3d-models/the-horse-ecfe459c6baa4377b487f89c57569d5c
+* author:	aaadragon (https://sketchfab.com/aaadragon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Horse" (https://sketchfab.com/3d-models/the-horse-ecfe459c6baa4377b487f89c57569d5c) by aaadragon (https://sketchfab.com/aaadragon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

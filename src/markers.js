@@ -1,0 +1,31 @@
+// src/markers.js
+const markers = [
+    { id: 'A', patternUrl: '/markers/pattern-A.patt', modelUrl: '/models/A-model/A.gltf' },
+    { id: 'B', patternUrl: '/markers/pattern-B.patt', modelUrl: '/models/B-model/B.gltf' },
+    // { id: 'C', patternUrl: '/markers/pattern-C.patt', modelUrl: '' },
+    // { id: 'D', patternUrl: '/markers/pattern-D.patt', modelUrl: '' },
+    // { id: 'E', patternUrl: '/markers/pattern-E.patt', modelUrl: '' },
+    // { id: 'F', patternUrl: '/markers/pattern-F.patt', modelUrl: '' },
+    // { id: 'G', patternUrl: '/markers/pattern-G.patt', modelUrl: '' },
+    // { id: 'H', patternUrl: '/markers/pattern-H.patt', modelUrl: '' },
+    // { id: 'I', patternUrl: '/markers/pattern-I.patt', modelUrl: '' },
+    // { id: 'J', patternUrl: '/markers/pattern-J.patt', modelUrl: '' },
+    // { id: 'K', patternUrl: '/markers/pattern-K.patt', modelUrl: '' },
+    // { id: 'L', patternUrl: '/markers/pattern-L.patt', modelUrl: '' },
+    // { id: 'M', patternUrl: '/markers/pattern-M.patt', modelUrl: '' },
+    // { id: 'N', patternUrl: '/markers/pattern-N.patt', modelUrl: '' },
+    // { id: 'O', patternUrl: '/markers/pattern-O.patt', modelUrl: '' },
+    // { id: 'P', patternUrl: '/markers/pattern-P.patt', modelUrl: '' },
+    // { id: 'Q', patternUrl: '/markers/pattern-Q.patt', modelUrl: '' },
+    // { id: 'R', patternUrl: '/markers/pattern-R.patt', modelUrl: '' },
+    // { id: 'S', patternUrl: '/markers/pattern-S.patt', modelUrl: '' },
+    // { id: 'T', patternUrl: '/markers/pattern-T.patt', modelUrl: '' },
+    // { id: 'U', patternUrl: '/markers/pattern-U.patt', modelUrl: '' },
+    // { id: 'V', patternUrl: '/markers/pattern-V.patt', modelUrl: '' },
+    // { id: 'W', patternUrl: '/markers/pattern-W.patt', modelUrl: '' },
+    // { id: 'X', patternUrl: '/markers/pattern-X.patt', modelUrl: '' },
+    // { id: 'Y', patternUrl: '/markers/pattern-Y.patt', modelUrl: '' },
+    // { id: 'Z', patternUrl: '/markers/pattern-Z.patt', modelUrl: '' },
+];
+
+export default markers;

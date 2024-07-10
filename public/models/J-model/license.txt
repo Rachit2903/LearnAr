@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jelly
+* source:	https://sketchfab.com/3d-models/jelly-a59257e5fc344d0d9aca8187c7ade6fc
+* author:	Tomato Owl (https://sketchfab.com/tomato_owl)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jelly" (https://sketchfab.com/3d-models/jelly-a59257e5fc344d0d9aca8187c7ade6fc) by Tomato Owl (https://sketchfab.com/tomato_owl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
