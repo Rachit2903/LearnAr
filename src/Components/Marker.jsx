@@ -8,7 +8,7 @@ const Marker = () => {
             <h1 className="text-3xl font-bold text-gray-800 mb-6">Marker {id}</h1>
             <div className="bg-white rounded shadow-lg p-6">
                 <img
-                    src={`/marker_img/pattern-${id}.png`}
+                    src={`/Marker_img/pattern-${id}.png`}
                     alt={`Marker ${id}`}
                     className="max-w-full h-auto rounded"
                 />
